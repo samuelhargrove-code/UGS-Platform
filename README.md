@@ -38,6 +38,6 @@ UGS (United Growth Systems) is an AI-powered land intelligence and financial ena
 
 ## Live URLs
 
-- Frontend: TBD (Vercel)
-- Backend API: TBD (Render)
+- Frontend: https://ugs-platform.vercel.app (LIVE)
+- Backend API: https://ugs-backend.onrender.com (pending)
 - Database: Supabase
